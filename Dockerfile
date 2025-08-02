@@ -23,7 +23,6 @@ RUN apt-get update && apt-get install -y \
     intl \
     json \
     mbstring \
-    pcre \
     simplexml \
     spl \
     xml \
