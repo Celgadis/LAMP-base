@@ -31,7 +31,6 @@ RUN apt-get update && apt-get install -y \
     opcache \
     soap \
     sodium \
-    xmlrpc \
     tokenizer
 
 # Copiar configuración personalizada de PHP
