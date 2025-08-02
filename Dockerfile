@@ -23,12 +23,16 @@ RUN apt-get update && apt-get install -y \
     intl \
     json \
     mbstring \
+    mysqli \
+    pdo_mysql \
     simplexml \
     spl \
     xml \
+    xmlrpc \
     zip \
     opcache \
     soap \
+    sodium \
     tokenizer
 
 # Copiar configuración personalizada de PHP
